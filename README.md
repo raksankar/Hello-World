@@ -1,2 +1,3 @@
 # Hello-World
-My first repository on GitHub
+My first repository on GitHub.
+I am a Chartered Accountant with deep aspiration for writing a program designed supremely well from an accounting point of view, business document arrival and departure point of view, tax accounting point of view and ERP system design point of view largely in a functional programming language running on java virtual machine like Clojure and minimally in a object-oriented programming language also running on java virtual machine like Groovy...
